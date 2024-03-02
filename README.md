@@ -3,7 +3,7 @@
   <h4 align="center">Full Stack Software Engineer</h4>
 </div>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack ??
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
